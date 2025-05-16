@@ -1,4 +1,4 @@
-# hub/__init__.py
+# proofai/__init__.py
 
 from .context import (
     _init,
@@ -8,3 +8,6 @@ from .context import (
     send_message,
     call_agent
 )
+
+# Version information
+__version__ = '0.1.0'
