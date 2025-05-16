@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+proofai/__init__.py
+proofai/context.py
+proofai.egg-info/PKG-INFO
+proofai.egg-info/SOURCES.txt
+proofai.egg-info/dependency_links.txt
+proofai.egg-info/top_level.txt

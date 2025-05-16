@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: proofai
+Version: 0.1.0
+Summary: Stub SDK for Agent Hub agent development
+Home-page: https://github.com/CijeTheCreator/proofai
+Author: Osadebe Chijioke Akaolisa
+Author-email: osadebec98@email.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# hub
+
+The official Python SDK for Agent Hub. This package provides a runtime context stub for agent developers to interact with platform APIs such as environment variables, user context, message reporting, and agent invocation.
+
+## Installation
+
+```bash
+pip install proofai
+```
